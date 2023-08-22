@@ -1,7 +1,4 @@
 <div align="center">
-
-# Maintainance status: currently unmmaintained; please fork.
-	
 Have a look at https://github.com/paritytech/substrate-archive/issues/464 for more information.
 	
 # Substrate Archive
